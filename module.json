@@ -3,7 +3,7 @@
   "title": "Drag Ruler Integration for AGE System",
   "description": "A module for supporting AGE system for Drag Ruler",
   "author": "Sinantrarion",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion":"10",
   "dependencies": [

@@ -3,7 +3,7 @@ Hooks.once("dragRuler.ready", (SpeedProvider) => {
         get colors() {
             return [
                 {id: "Move", default: 0x04D40B},
-                {id: "Run", default: 0x04D40B}
+                {id: "Run", default: 0x0000FF}
             ]
         }
 
