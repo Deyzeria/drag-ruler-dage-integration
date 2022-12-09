@@ -1,0 +1,20 @@
+{
+  "name": "drag-ruler-dage-integration",
+  "title": "Drag Ruler Integration for AGE System",
+  "description": "A module for supporting AGE system for Drag Ruler",
+  "author": "Sinantrarion",
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion":"10",
+  "dependencies": [
+    {
+      "name": "drag-ruler",
+      "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
+    }],
+  "scripts": [
+    "scripts/hookSpeedProvider.js"
+  ],
+  "url": "https://github.com/Sinantrarion/drag-ruler-dage-integration",
+  "download": "https://github.com/Sinantrarion/drag-ruler-dage-integration/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/Sinantrarion/drag-ruler-dage-integration/main/module.json"
+}
